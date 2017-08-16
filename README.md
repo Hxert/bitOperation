@@ -1,7 +1,5 @@
 # bitOperation
-Use Byte instead of your Boolean.
-  boolean = 1 byte = 8 bit
-  byte = 1 byte = 8 bit
+boolean = 1 byte = 8 bit But byte = 1 byte = 8 bit.    
 Why not use 1 bit instead 1 boolean.
 1 byte have 8 boolean!
 # Note
